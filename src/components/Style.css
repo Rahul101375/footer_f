@@ -88,14 +88,14 @@
 .footer_content{
     margin-left: 10px;
 }
-@media screen and (max-width:992px){
+@media screen and (max-width:982px){
     .footer_container{
         display:grid;
         grid-template-columns:auto auto;
         justify-content: space-around;
       }
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:768px){
      .footer_container{
         display:grid;
         grid-template-columns:auto;
